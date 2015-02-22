@@ -2,7 +2,7 @@ import java.awt.EventQueue;
 
 import javax.swing.UIManager;
 
-
+//Added a comment line as test by Veera Feb 22, 10:27
 public class ChangeCounterMain {
 
 	public static void main(String[] args) {
